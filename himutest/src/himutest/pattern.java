@@ -1,7 +1,7 @@
 package himutest;
 
 public class pattern {
-/*public  void paternIn()
+public  void paternIn()
 {
 	for(int i=1;i<=10;i++)
 	{
@@ -12,7 +12,7 @@ public class pattern {
 		System.out.println();
 	}
 	
-}*/
+}
 public  void paterndec()
 {
 for(int i=4;i>0;i--)	
